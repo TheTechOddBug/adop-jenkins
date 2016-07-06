@@ -1,6 +1,6 @@
 FROM jenkins:1.609.1
 
-MAINTAINER Nick Griffin, <nicholas.griffin>
+MAINTAINER Jose Maria Gutierrez, <thetechoddbug>
 
 ENV GERRIT_HOST_NAME gerrit
 ENV GERRIT_PORT 8080
